@@ -1,0 +1,124 @@
+p{
+    width: 700px;
+    height: 300px;
+    border-radius: 0.5cm;
+    background-color: whitesmoke;
+    font-size: 30px;
+    font-family: cooper black;
+    margin-right: 20px;
+}
+
+h2{
+    color: whitesmoke;
+}
+
+.content1 p1{
+    color: rgb(26, 19, 19);
+}
+
+.content1 img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+p2{
+    font-size: 70px;
+    color: rgb(12, 202, 12);
+    font-weight: 4000;
+    font-family: arial;
+
+}
+
+.heading h1{
+    font-size: 50px;
+    font-family: arial;
+    color: rgb(12, 202, 12);
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    height: 100px;
+} 
+
+ul li{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+    list-style: none;
+}
+
+.web img{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    
+}
+
+ul li a{
+    margin-top: 25px;
+    font-size: 45px;
+    width: 259px;
+    font-size: 25px;
+    font-family: times new roman;
+    color: #d6d6d6;
+    text-decoration: none;
+}
+
+a:hover{
+    box-shadow: 0 0 100px #27272c45;
+    background-color: #4CAF50;
+    transition: .4s ease;
+}
+
+li{
+    margin-top: 30px;
+}
+
+th{
+    margin: 2px;
+    border: 1px solid black;
+    border-radius: 0.4cm;
+    background: rgb(26, 25, 25);
+    padding-top: 30px;
+}
+
+th:hover{
+    background-size: 360px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+p1{
+    margin-top: 150px;
+    color:  white;
+    font-family: times new roman;
+    font-size: 30px;
+    border-radius: 0.5cm;
+}
+
+.kay img{
+    float: left;
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.more a{
+    font-size: 30px;
+    font-family: times new roman;
+    color: white;
+    background-color: #4CAF50;
+}
+
+.bg img{
+    position: fixed;
+    float: right;
+    width: 500px;
+    height: 500px;
+    margin-left: 800px;
+    border: 0.5cm black;
+    border-radius: 1cm;
+
+}
